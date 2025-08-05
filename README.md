@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-*this is linked to what we did in the last repo pushed - cli_tools(w3d2)>dealing with more commands (main repo - cli-filecleaner)*
+*this is linked to what we did in the last repo pushed - cli_tools(w3d2)>dealing with more commands (main repo - clitool-filecleaner)*
 
 The exercises documented here cover the essential skills for managing any Linux-based server: inspecting and controlling running processes, securing files with a robust permission model, and using the industry-standard SSH protocol to securely connect to and manage a cloud server hosted on Amazon Web Services (AWS).
 
