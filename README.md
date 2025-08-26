@@ -45,3 +45,6 @@ This was the capstone exercise for the segment: a complete, end-to-end workflow 
 * **Environment Matters:** The filesystem you work in has real consequences for how standard tools behave. For Linux development on Windows, the Linux home (`~`) is the most reliable location.
 * **Security by Default:** Modern tools like SSH have security principles built-in. Understanding these principles (like private key permissions) is not optional.
 * **The Cloud is Tangible:** The exercise demystified the cloud, showing that a "cloud server" is simply a Linux computer that can be controlled from anywhere using the same fundamental commands.
+
+# License
+MIT
